@@ -1,5 +1,5 @@
 - 👋 Hi, I’m media artist, I’m an experienced graphic designer, specializing in motion graphics and video
-- 🌱 I’m currently learning Python, R, Java, MySQL, Pandas, MongoDB and more.
+- 🌱 Currently, I'm expanding my skills with programming languages such as Python, R, Java, MySQL, Pandas, and MongoDB
 - 💞️ I’m looking to collaborate on generative art projects
 - 📫 How to reach me: jalknkleith@gmail.com
 
