@@ -6,7 +6,6 @@
 - I speak Spanish, English, and Italian.
 - I’m looking to collaborate on generative art projects
 - I would be very happy to do an internship at your company too.
-- I’m looking to collaborate on generative art projects
 - 📫 How to reach me: jalknkleith@gmail.com
 
 <!---
