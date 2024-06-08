@@ -5,7 +5,6 @@
 - I have advanced proficiency in Illustrator, Photoshop, Premiere, InDesign, and After Effects.
 - I speak Spanish, English, and Italian.
 - I’m looking to collaborate on generative art projects
-- I would be very happy to do an internship at your company too.
 - 📫 How to reach me: jalknkleith@gmail.com
 
 <!---
