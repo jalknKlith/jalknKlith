@@ -5,8 +5,3 @@
 - I have advanced proficiency in Illustrator, Photoshop, Premiere, InDesign, and After Effects.
 - I speak Spanish, English, and Italian.
 - 📫 How to reach me: jalknkleith@gmail.com
-
-<!---
-jalknKleith/jalknKleith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
