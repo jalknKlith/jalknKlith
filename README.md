@@ -4,4 +4,3 @@
 - 🌱 Currently, I'm expanding my skills with programming languages such as Python, R, Java, MySQL, PHP, HTML, CSS and JavaScript.  
 - I have advanced proficiency in Illustrator, Photoshop, Premiere, InDesign, and After Effects.
 - I speak Spanish, English, and Italian.
-- 📫 How to reach me: alejalkndro@gmail.com
