@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    background-color: #000000;
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+  }
+
+  .sketch{
+    height: 1080px;
+    overflow: hidden;
+  }
+  
+  img{
+    width: 25px;
+    margin: 0 auto;
+  }
+  
+  /* Side navigation */
+  .sidenav {
+    height: 100%;
+    width: 60px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+    overflow-x: hidden;
+  }
+  
+  /* Side navigation links */
+  .sidenav a {
+    color: #ffffff;
+    padding: 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Color on hover */
+  .sidenav a:hover {
+    background-color: #000000;
+    color: rgb(0, 0, 0);
+  }
+  
+  /* Style the content */
+  .content {
+    margin-left: 60px;
+    padding-left: 10px;
+  }
