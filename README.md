@@ -1,2 +1,2 @@
 - 🌱 I got six months with programming languages such as Python, R, Java, MySQL, PHP, HTML, CSS and JavaScript.
--  🦾 Focused on RPA 🌊 Also Code-to-earth-art. Marging algoritms with landscapes.
+-  🦾 Building RPA solutions 🌊 Also Code-to-earth-art. Marging algoritms with landscapes.
