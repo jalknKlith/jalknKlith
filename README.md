@@ -6,6 +6,7 @@
 -  Check some projects:
 -  http://jalknklith.github.io/motivakcion/
 -  https://github.com/jalknKlith/climApp
+-  https://jalknklith.github.io/panelaFresh/
 -   https://jalknklith.github.io/jalknKlith/
--   https://jalknklith.github.io/panelaFresh/
+
 
