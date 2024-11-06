@@ -4,9 +4,9 @@
 
 
 -  Check some projects:
--  http://jalknklith.github.io/motivakcion/
--  https://github.com/jalknKlith/climApp
--  https://jalknklith.github.io/panelaFresh/
--   https://jalknklith.github.io/jalknKlith/
+-  http://jalknthoth.github.io/motivakcion/
+-  https://github.com/jalknthoth/climApp
+-  https://jalknthoth.github.io/panelaFresh/
+-   https://jalknkthoth.github.io/jalknthoth/
 
 
