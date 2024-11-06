@@ -7,6 +7,6 @@
 -  http://jalknthoth.github.io/motivakcion/
 -  https://github.com/jalknthoth/climApp
 -  https://jalknthoth.github.io/panelaFresh/
--  https://jalknthoth.github.io/jalknThoth/)
+-  https://jalknthoth.github.io/jalknThoth/
 
 
