@@ -4,7 +4,7 @@
 
 
 -  Check some projects:
--  http://jalkntoth.github.io/motivakcion/
+-   http://jalkntoth.github.io/exhale/
 -  https://github.com/jalkntoth/climApp
 -  https://jalkntoth.github.io/panelaFresh/
 -  https://jalkntoth.github.io/jalknToth/
